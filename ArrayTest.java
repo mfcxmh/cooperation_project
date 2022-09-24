@@ -7,5 +7,6 @@ public class ArrayTest {
             tel+=arr[index[i]];
         }
         System.out.println("联系方式："+tel);
+        System.out.println("对原来文件的修改已完成！！！");
     }
 }
